@@ -1,0 +1,18 @@
+body {
+  display: grid;
+  grid-template-columns: 1fr 1170px 1fr;
+  grid-template-rows: 50px 1fr 130px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header {
+  grid-area: 1/1/4/4;
+  background-color: #222;
+  position: sticky;
+  right: 0;
+  top: 0;
+}
+
+main {
+  grid-area: 2/2/3/4;
+}
