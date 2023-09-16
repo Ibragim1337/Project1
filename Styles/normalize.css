@@ -5,3 +5,27 @@
   list-style-type: none;
   text-decoration: none;
 }
+
+.h-input {
+  appearance: none;
+}
+
+.h-input-button {
+  appearance: none;
+}
+
+.hidden-menu > li {
+  text-decoration: none;
+}
+
+.main-button {
+  outline: none;
+}
+
+.mini-button {
+  appearance: none;
+}
+
+.footer-paragraph {
+  text-decoration: none;
+}

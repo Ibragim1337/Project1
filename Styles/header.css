@@ -50,7 +50,6 @@
   padding: 6px 12px;
   border-radius: 4px;
   border: 1px solid #ccc;
-  appearance: none;
 }
 
 .h-input-button {
@@ -60,7 +59,6 @@
   background-color: white;
   cursor: pointer;
   color: #333;
-  appearance: none;
 }
 
 .navigation > ul {
